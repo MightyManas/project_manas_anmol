@@ -1,0 +1,37 @@
+{
+  "jutsu": [
+    {
+      "name": "Fire Release: Great Fireball Technique",
+      "sequence": [
+        "snake",
+        "ram",
+        "monkey",
+        "boar",
+        "horse",
+        "tiger"
+      ],
+      "length": 6,
+      "asset": "assets/fire_release:_great_fireball_technique.png"
+    },
+    {
+      "name": "Lightning Cutter (Chidori)",
+      "sequence": [
+        "ox",
+        "hare",
+        "monkey"
+      ],
+      "length": 3,
+      "asset": "assets/lightning_cutter_(chidori).png"
+    },
+    {
+      "name": "Impure World Reincarnation",
+      "sequence": [
+        "tiger",
+        "snake",
+        "dog"
+      ],
+      "length": 3,
+      "asset": "assets/impure_world_reincarnation.png"
+    }
+  ]
+}
